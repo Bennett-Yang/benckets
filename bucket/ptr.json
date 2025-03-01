@@ -7,11 +7,11 @@
     "hash": "4d26e0dd857473b4acc2cbb829e0e501694f40bcb74fad852ad4b13efe3314d2",
     "shortcuts": [
         [
-            "ptr/ptr.exe",
+            "ptr.exe",
             "ptr"
         ]
     ],
-    "bin": "ptr/ptr.exe",
+    "bin": "ptr.exe",
     "checkver": {
         "github": "https://github.com/8LWXpg/ptr"
     },
