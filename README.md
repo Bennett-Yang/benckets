@@ -9,7 +9,7 @@ Q&A
 Run the command below in PowerShell to add the bucket:
 
 ``` powershell
-scoop bucket add bencket https://github.com/Bennett-Yang/benckets
+scoop bucket add benckets https://github.com/Bennett-Yang/benckets
 ```
 
 Install apps from **benckets** with below command:
@@ -24,3 +24,4 @@ scoop install benckets/<app_name>
 * Office Tool Plus
 * Quicker
 * Cherry Studio
+* ptr
