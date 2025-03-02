@@ -18,10 +18,11 @@ Install apps from **benckets** with below command:
 scoop install benckets/<app_name>
 ```
 
-### What apps does bencket have?
+### What apps does **benckets** have?
 * Ant Donwload Manager
 * Image2Latex
 * Office Tool Plus
 * Quicker
 * Cherry Studio
 * ptr
+* bilidown
