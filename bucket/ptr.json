@@ -1,10 +1,10 @@
 {
     "homepage": "https://github.com/8LWXpg/ptr",
     "description": "This is a cli tool to manage PowerToys Run plugins. It can be used to install, uninstall, update, list, and import plugins.",
-    "version": "0.14.0",
+    "version": "0.15.0",
     "license": "MIT License",
-    "url": "https://github.com/8LWXpg/ptr/releases/download/v0.14.0/ptr-x86_64-pc-windows-msvc.zip#/dl.7z",
-    "hash": "ff228dce1aecb1c92c106f7e1671abfc90ccd7ba8af21a088011d49ec91fe35d",
+    "url": "https://github.com/8LWXpg/ptr/releases/download/v0.15.0/ptr-x86_64-pc-windows-msvc.zip#/dl.7z",
+    "hash": "e67a3b08577debbcc17dfbdbdcdd1baf5696177987229a49047fda72e2375b10",
     "shortcuts": [
         [
             "ptr.exe",
