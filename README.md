@@ -19,10 +19,12 @@ scoop install benckets/<app_name>
 ```
 
 ### What apps does **benckets** have?
-* Ant Donwload Manager
-* Image2Latex
-* Office Tool Plus
-* Quicker
-* Cherry Studio
-* ptr
+
+* Ant Download Manager
 * bilidown
+* Cherry Studio
+* Image2LaTeX
+* Office Tool Plus
+* OpenLogi
+* ptr
+* Quicker
